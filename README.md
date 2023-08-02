@@ -3,11 +3,11 @@
 #### Этот репозиторий является сборником различных пет-проектов по аналитике:
 
 ____
-### [Анализ ассортимента игр на платформе PlayStation 4](https://github.com/dmitry-filimonov/Pet-Projects/tree/main/ps4_games)
+### [Дашборд по пользовательским событиям для агрегатора новостей](https://github.com/dmitry-filimonov/Pet-Projects/tree/main/yandex_zen)
 
-Построение интерактивного дашборда
+Работа с базой данных, построение интерактивного дашборда
 
-*Tableau Public 2023.1*
+*Python (sqlalchemy, pandas), Tableau Public 2023.1*
 ___
 ### [Исследовательский анализ населения мира 1980-2022](https://github.com/dmitry-filimonov/Pet-Projects/tree/main/telegram-parsing)
 
@@ -15,14 +15,15 @@ ___
 
 *Python (pandas, matplotlib)*
 ____
-### [Дашборд по пользовательским событиям для агрегатора новостей](https://github.com/dmitry-filimonov/Pet-Projects/tree/main/yandex_zen)
+### [Анализ ассортимента игр на платформе PlayStation 4](https://github.com/dmitry-filimonov/Pet-Projects/tree/main/ps4_games)
 
-Работа с базой данных, построение интерактивного дашборда
+Построение интерактивного дашборда
 
-*Python (sqlalchemy, pandas), Tableau Public 2023.1*
+*Tableau Public 2023.1*
 ____
 ### [Анализ динамики цен на лечение в медицинской клинике](https://github.com/dmitry-filimonov/Pet-Projects/tree/main/clinic_patients_analysis)
 
 Исследовательский анализ, проверка статистических гипотез
 
 *Python (pandas, matplotlib, numpy, scipy)*
+____
