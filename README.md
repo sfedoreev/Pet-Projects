@@ -15,7 +15,7 @@ ___
 
 *Python (pandas, matplotlib)*
 ____
-### [Анализ ассортимента игр на платформе PlayStation 4](https://github.com/sfedoreev/Pet-Projects/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B0%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%B8%D0%B3%D1%80%20%D0%BD%D0%B0%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B5%20PlayStation%204)
+### [Дашборд ассортимента игр на платформе PlayStation 4](https://github.com/sfedoreev/Pet-Projects/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B0%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%B8%D0%B3%D1%80%20%D0%BD%D0%B0%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B5%20PlayStation%204)
 
 Построение интерактивного дашборда
 
