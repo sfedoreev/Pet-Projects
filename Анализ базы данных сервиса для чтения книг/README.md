@@ -6,4 +6,4 @@ ___
 ___
 ### Инструменты:
 
-Pandas, SQLAlchemy
+Python (Pandas, SQLAlchemy)
